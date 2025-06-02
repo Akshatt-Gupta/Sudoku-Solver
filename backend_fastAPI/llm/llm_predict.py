@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyCS6rGZAl3i9eN44Dsv-HccLss78sHLWoE")
+
 
 PROMPT = """
 You are given an image of a Sudoku puzzle.
